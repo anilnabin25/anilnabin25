@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/divyashrestha?label=Follow&style=social)](https://github.com/divyashrestha)
+
+![Divya Shrestha's github stats](https://github-readme-stats.vercel.app/api?username=divyashrestha&show_icons=true&count_private=true&line_height=20&theme=radical)
+
+# [About Me](http://divyashr.com.np/)
+
+
 <!--
 **divyashrestha/divyashrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
